@@ -1,0 +1,7 @@
+{
+    "key": "value",
+    "anotherKey": [
+      "value1",
+      "value2"
+    ]
+}
